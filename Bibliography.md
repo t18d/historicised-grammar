@@ -1,6 +1,10 @@
 # Bibliography
 
 genitivus causae (Baxter 1725)
+- Horace. Q. Horatii Flacci Eclogae : una cum scholiis perpetuis, tam veteribus quàm novis / adjecit etiam, ubi visum est, & sua, textumque ipsum plurimis locis vel corruptum vel turbatum restituit Willielmus Baxter. England: Typis Guilielmi Bowyer : Impensis autem J. Batley ..., 1725, 1725. Print. (?)
+
+
+
 - Stuart, M. *A Hebrew Chrestomathy Designed as an Introduction to a Course of Hebrew Study. United States: Gould and Newman 1838*:
 - Schenkel, Wolfgang. 1962. *Direkter und indirekter „Genitiv“. Zeitschrift für ägyptische Sprache und Altertumskunde*
 - Meyer Mark Robert 1962, *A Comparative Dialectical Study of Genitive Constructions in Aramaic Translations of Exodus*
