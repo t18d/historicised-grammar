@@ -3,7 +3,7 @@
 Thesis:\
 An invesigation on the *genitivus auctoris* and *genitivus causae* distinction; is the historical distinction between these terms always clear? 
 
-A point I'd like to explore is whether scholars either subconsciously or consciously applying pre-conceived grammatical ideas from languages they may already know onto Semitic languages leads to what Sollamo names an 'unproductive' distinction between these genitives (for example, the genitive in languages like German, Latin or Czech is notoriously multiply ambiguous)
+A point I'd like to explore is whether scholars either consciously or subconsciously applying pre-conceived grammatical ideas from languages they may already know (or working within these frameworks) onto Semitic languages leads to what Sollamo names an 'unproductive' distinction between these genitives (for example, the genitive in languages like German, Latin or Czech is notoriously multiply ambiguous)
 
 # Background, context
 R. Sollamo, *The Passive with an Agent in Biblical Hebrew and its Rendering in the Septuagint* : [in Festschrift for Muraoka]
