@@ -24,5 +24,11 @@ compared with Ps 150 1-6:\
 
 Where עֻזּוֹ is named as a *genet. causae*
 
+***
+
+*Lösungen zu Übersetzungstexten und Diagnosebögen, 2017 Vandenhoeck & Ruprecht GmbH & Co. KG, Göttingen*
+>*1 Der Genitiv Χριστοῦ Ἰησοῦ bezeichnet den Grund; er heißt Genitivus causae und wird mit »wegen« übersetzt (ebenso τοῦ εὐαγγελίου Z. 16).*
+Though not necessarily LXX (Mark- though there are Semitisms arguably)
+
 
 
