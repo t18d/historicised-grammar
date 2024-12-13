@@ -6,7 +6,7 @@ An invesigation on the *genitivus auctoris* and *genitivus causae* distinction; 
 # Background, context
 R. Sollamo, *The Passive with an Agent in Biblical Hebrew and its Rendering in the Septuagint* : [in Festschrift for Muraoka]
 Sollamo is critical of the distinction between the distinction between the two, writing they are not clearly distinguishable; she instead proposess the term *genitivus agentis* ; \
-My question is whether this claim is justifiable - are the distinctions between the terms not so clear-cut? And if they are not, can we appropriately apply this *genitivus agentis* within Hebrew? \
+My question is whether this claim is justifiable - are the distinctions between the terms not so clear-cut? And if they are not, can we appropriately apply this *genitivus agentis* within Hebrew? 
 
 (More on this *agentis* - Блох М. Я. *Теоретическая грамматика английского языка: Учебник. Для студентов филол. фак. ун-тов и фак. англ. яз. педвузов. — М.: Высш. школа, 1983.*)
 
@@ -17,6 +17,8 @@ Gesenius, W., Roiger, E., ed. (1857) *Wilhelm Gesenius' Hebräische Grammatik . 
 
 > Ge 24 31 וַיֹּ֕אמֶר בֹּ֖וא בְּר֣וּךְ יְהוָ֑ה:\
 compared with Ps 150 1-6:\
-> Ps הַלְלוּ-יָהּ: הַלְלוּ-אֵל בְּקָדְשׁוֹ; הַלְלוּהוּ, בִּרְקִיעַ עֻזּוֹ.:\
+> Ps 150 1 הַלְלוּ-יָהּ: הַלְלוּ-אֵל בְּקָדְשׁוֹ; הַלְלוּהוּ, בִּרְקִיעַ עֻזּוֹ.:\
+
+
 Where עֻזּוֹ is named as a *genet. causae*
-> 
+
