@@ -1,7 +1,9 @@
 # Genitivus Causae , Genitivus Auctoris - their origins, similarities and distinctions
 
 Thesis:\
-An invesigation on the *genitivus auctoris* and *genitivus causae* distinction; is the historical distinction between these terms always clear?
+An invesigation on the *genitivus auctoris* and *genitivus causae* distinction; is the historical distinction between these terms always clear? 
+
+A point I'd like to explore is whether scholars either subconsciously or consciously applying pre-conceived grammatical ideas from languages they may already know onto Semitic languages leads to what Sollamo names an 'unproductive' distinction between these genitives (for example, the genitive in languages like German, Latin or Czech is notoriously multiply ambiguous)
 
 # Background, context
 R. Sollamo, *The Passive with an Agent in Biblical Hebrew and its Rendering in the Septuagint* : [in Festschrift for Muraoka]
@@ -21,4 +23,6 @@ compared with Ps 150 1-6:\
 
 
 Where עֻזּוֹ is named as a *genet. causae*
+
+
 
