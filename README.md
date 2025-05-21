@@ -13,3 +13,8 @@
 - sequence of tenses
   - M. Benner and E. Tengström, _On the Interpretation of Learned Neo-Latin_ (Gothenburg, 1977), 80–5.
 
+## Stylistics
+
+- alliteration (Pontano 1507)
+  - A. F. Naekius, 'De allitteratione sermonis latini', _RhM_, 3/3 (1829), 327.
+  - Pontani _Actius de numeris poeticis & lege historiæ_ (1507), fol. 116r.
