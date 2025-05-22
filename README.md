@@ -7,6 +7,9 @@
 
 ## Syntax
 
+- declension (Varro 47–43 BC)
+  - Schad (2007) s.v. declinatio, declino
+
 - genitivus causae (Baxter 1725)
   - _Q. Horatii Flacci Eclogae: una cum scholiis perpetuis, tam veteribus quàm novis adjecit etiam, ubi visum est, & sua, textumque ipsum plurimis locis vel corruptum vel turbatum_ restituit Willielmus Baxter (England, 1725).
 
