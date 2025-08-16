@@ -12,6 +12,9 @@ for public domain sources.
 
 ## Syntax
 
+- ablativus absolutus (Alberic 1080s)
+  - Scaglione (1970)
+
 - declension (Varro a43 BC)
   - Schad (2007) s.v. declinatio, declino
 
