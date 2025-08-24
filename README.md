@@ -15,6 +15,14 @@ for public domain sources.
 - ablativus absolutus (Alberic 1080s)
   - Scaglione (1970)
 
+- accusativus (Varro a43 BC)
+  - Trendelenburg, 'Accusativi Nomen Quid Tandem Sibi Velit', _Acta Societatis
+    Graecae Lipsiensis_, 1 (1836), 117–24.
+  - D. J. Taylor, 'Why the accusative is called "accusative"', in _Language,
+    Grammar, and Erudition: From Antiquity to Modern Times_ (Leuven, 2018), 388:
+    none of the ancient names for the cases is predicated on any syntactic notion
+    whatsoever.
+
 - declension (Varro a43 BC)
   - Schad (2007) s.v. declinatio, declino
 
