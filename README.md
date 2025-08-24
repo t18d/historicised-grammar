@@ -52,3 +52,18 @@ for public domain sources.
 - alliteration (Pontano 1507)
   - A. F. Naekius, 'De allitteratione sermonis latini', _RhM_, 3/3 (1829), 327.
   - Pontani _Actius de numeris poeticis & lege historiæ_ (1507), fol. 116r.
+
+## Criticism
+
+- lectio difficilior (Teller 1757)
+  - Le Clerc, _Ars critica_, ii (Amsterdam, 1697), 125: quando duorum quæ idem
+    significant … unum obscurius, alterum vero clarius est, dubium non est quin
+    **clarius sit Glossema obscurioris**.
+  - J. H. Bentley, 'Erasmus, Jean Le Clerc, and the Principle of the Harder
+    Reading', _Renaissance Quarterly_, 31/3 (1978), 309–21.
+  - W. A. Teller, _De iudicio super variis lectionibus codicis Hebraei divini
+    recte faciendo disputatio_ (Leipzig, 1757), 39: praeferenda etiam est **lectio
+    difficilior** faciliori …
+  - B. Jowett (ed.), _The Epistles of St. Paul to the Thessalonians, Galatians,
+    Romans_, i (London, 1859), 324: Like the canon, "**Potior lectio
+    difficilior**," potior difficilior interpretatio may also have a truth.
