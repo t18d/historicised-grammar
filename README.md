@@ -1,7 +1,7 @@
 # Bibliography
 
 \* See
-[Checklist of Editions](https://github.com/t18d/attested-conjectures/wiki/Checklist-of-Editions-and-MSS)
+[Wiki](https://github.com/t18d/historicised-grammar/wiki)
 for public domain sources.
 
 ## Phonology
