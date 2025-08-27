@@ -27,7 +27,7 @@ for public domain sources.
   - Schad (2007) s.v. declinatio, declino
 
 - futurum exactum (Pomponius 1484)
-  - Pomponius, _Grammaticae compendium_ (Venice, 1484): Tempora sunt tria.… et
+  - Pomponio, _Grammaticae compendium_ (Venice, 1484): Tempora sunt tria.… et
     ipsum præteritum distinguitur: … **futurum** datur **exactum** amauero.
   - Madvig, _De formarum quarundam verbi Latini natura et usu disputationis pars
     prior_ (Copenhagen, 1835), 6: **indicativum** futuri exacti … Inutilis est
@@ -50,8 +50,8 @@ for public domain sources.
 ## Stylistics
 
 - alliteration (Pontano 1507)
-  - A. F. Naekius, 'De allitteratione sermonis latini', _RhM_, 3/3 (1829), 327.
-  - Pontani _Actius de numeris poeticis & lege historiæ_ (1507), fol. 116r.
+  - A. F. Naek, 'De allitteratione sermonis latini', _RhM_, 3/3 (1829), 327.
+  - Pontano, _Actius de numeris poeticis & lege historiæ_ (1507), fol. 116r.
 
 ## Criticism
 
