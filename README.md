@@ -67,3 +67,5 @@ for public domain sources.
   - B. Jowett (ed.), _The Epistles of St. Paul to the Thessalonians, Galatians,
     Romans_, i (London, 1859), 324: Like the canon, "**Potior lectio
     difficilior**," potior difficilior interpretatio may also have a truth.
+- utrum in alterum abiturum erat (Housman 1905)
+  - Housman (ed.), _D. Ivnii Ivvenalis Satvrae_ (London, 1905), 94.
