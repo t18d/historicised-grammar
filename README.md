@@ -53,6 +53,15 @@ for public domain sources.
   - A. F. Naek, 'De allitteratione sermonis latini', _RhM_, 3/3 (1829), 327.
   - Pontano, _Actius de numeris poeticis & lege historiæ_ (1507), fol. 116r.
 
+## Dialectology
+
+- Attic (Holland 1603)
+  - P. Holland, 'An explanation of sundry tearmes somewhat obscure … in favour of
+    the unlearned Reader …', in _The philosophie, commonlie called, the morals
+    written by the learned Philosopher Plutarch of Chæronea_ (London, 1603), s.v.
+    Solœcisme: It arose of those who being Athenians borne … spake not pure
+    **Attick** …
+
 ## Criticism
 
 - lectio difficilior (Teller 1757)
