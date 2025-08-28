@@ -58,7 +58,7 @@ for public domain sources.
 - Attic (Holland 1603)
   - P. Holland, 'An explanation of sundry tearmes somewhat obscure … in favour of
     the unlearned Reader …', in _The philosophie, commonlie called, the morals
-    written by the learned Philosopher Plutarch of Chæronea_ (London, 1603), s.v.
+    written by the learned Philosopher Plutarch of Chæronea_, ii (London, 1603), s.v.
     Solœcisme: It arose of those who being Athenians borne … spake not pure
     **Attick** …
 
