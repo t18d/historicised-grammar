@@ -10,6 +10,20 @@ for public domain sources.
   - P. Probert, _A New Short Guide to the Accentuation of Ancient Greek_ (London,
     2003), 139.
 
+## Morphology
+
+- coniugatio periphrastica (Melanchthon 1621)
+  - L. Albertus, _Teutsch Grammatick oder Sprachkunst_ (Augsburg, 1573): In
+    plurali vtimur **periphrasi verbi**, wir sollen _nos debemus_.
+  - B. Grieco and E. Nardi, 'The metalinguistic development of the term
+    "periphrasis" in the western grammatical tradition from Antiquity to the
+    Enlightenment', in _Historiographia Linguistica_, 52/1 (2025), 83–4.
+  - Melanchthon, _Grammatica latina_ (Wittemberg, 1621): Quotuplex est
+    **coniugatio**? … Alia simplex: ut, amo, doceo, sum. Alia **Periphrastica**.
+    ut, amatus sum, amatus eram, amaturus sum, amandus ero.
+  - R. Hoffmann, '"Periphrase" ("periphrastich"): zu Herkunft und Geschichte eines
+    sprachwissenschaftlichen Begriffs', _Glotta_, 71/3–4 (1993), 233–4.
+
 ## Syntax
 
 - ablativus absolutus (Alberic 1080s)
