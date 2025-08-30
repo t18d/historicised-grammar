@@ -18,9 +18,10 @@ for public domain sources.
   - B. Grieco and E. Nardi, 'The metalinguistic development of the term
     "periphrasis" in the western grammatical tradition from Antiquity to the
     Enlightenment', in _Historiographia Linguistica_, 52/1 (2025), 83–4.
-  - Melanchthon, _Grammatica latina_ (Wittemberg, 1621): Quotuplex est
-    **coniugatio**? … Alia simplex: ut, amo, doceo, sum. Alia **Periphrastica**.
-    ut, amatus sum, amatus eram, amaturus sum, amandus ero.
+  - Melanchthon, _Grammatica latina_ (Wittemberg, 1632 [1621]), 144–5: _Quotuplex
+    est **Conjugatio**?_ … Alia Simplex: _ut, Amo, Doceo, Sum._ Alia
+    **Periphrastica**. _ut, Amatus sum_; _Amatus eram_; _Amaturus sum_; _Amandus
+    ero._
   - R. Hoffmann, '"Periphrase" ("periphrastich"): zu Herkunft und Geschichte eines
     sprachwissenschaftlichen Begriffs', _Glotta_, 71/3–4 (1993), 233–4.
 
