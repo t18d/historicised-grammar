@@ -58,6 +58,12 @@ for public domain sources.
 - genitivus causae (Baxter 1725)
   - _Q. Horatii Flacci Eclogae_ … restituit Willielmus Baxter (England, 1725).
 
+- regere (Servius 779–96)
+  - 'De idiomatibvs (Paris. lat. 7530)', in _Grammatici latini_, iv (Leipzig,
+    1864), 572: De verbis qvae **regvnt** varios casvs.
+  - C. Thurot, _Notices et extraits de divers manuscrits latins pour servir à
+    l'histoire des doctrines grammaticales au moyen âge_ (Paris, 1868), 82.
+
 - sequence of tenses
   - M. Benner and E. Tengström, _On the Interpretation of Learned Neo-Latin_
     (Gothenburg, 1977), 80–5.
