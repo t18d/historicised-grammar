@@ -109,8 +109,8 @@ names of medieval writers.
 - Attic (Holland 1603)
   - P. Holland, 'An explanation of sundry tearmes somewhat obscure … in favour of
     the unlearned Reader …', in _The philosophie, commonlie called, the morals
-    written by the learned Philosopher Plutarch of Chæronea_, ii (London, 1603), s.v.
-    Solœcisme: It arose of those who being Athenians borne … spake not pure
+    written by the learned Philosopher Plutarch of Chæronea_, ii (London, 1603),
+    s.v. Solœcisme: It arose of those who being Athenians borne … spake not pure
     **Attick** …
 
 ## Criticism
@@ -129,3 +129,10 @@ names of medieval writers.
     difficilior**," potior difficilior interpretatio may also have a truth.
 - utrum in alterum abiturum erat (Housman 1905)
   - Housman (ed.), _D. Ivnii Ivvenalis Satvrae_ (London, 1905), 94.
+- vera lectio ad finem victoriam reportat (Wordsworth–White 1898)
+  - J. Wordsworth and H. J. White (eds), _Nouum Testamentum Domini nostri Jesu
+    Christi latine_ (Oxford, 1889–98), 727–8.
+  - E. Nestle, _Einführung in das Griechische Neue Testament_ (2nd edn, Göttingen,
+    1899), 202.
+  - E. M. Cook, 'The "Kaufman Effect" in the _Pseudo-Jonathan_ Targum', _Aramaic
+    Studies_, 4.2 (2006), 123–32.
