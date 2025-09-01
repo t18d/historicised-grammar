@@ -39,6 +39,15 @@ names of medieval writers.
     none of the ancient names for the cases is predicated on any syntactic notion
     whatsoever.
 
+- complément (Girard 1747)
+  - G. Girard, _Les Vrais Principes de la langue françoise: ou La Parole reduite
+    en méthode_ (Amsterdam, 1747), 331: … on dit, _plus tard, bien matin._ En
+    revanche ceuxci ne se trouvent jamais soumis au régime d'une préposition; &
+    ceuxla peuvent en faire le **complément**: _depuis hier, pour aujourdui, de
+    demain en demain._
+  - W. K. Percival, 'Reflections on the history of dependency notions in
+    linguistics', _Historiographia Lingustica_, 17/1–2 (1990), 37.
+
 - declension (Varro a43 BC)
   - Schad (2007) s.v. declinatio, declino
 
@@ -73,9 +82,9 @@ names of medieval writers.
   - OED3: modifier (Tylor 1865)
  
 - modification (Buffier 1709)
-  - Buffier, _Grammaire_, 49: si je
-    dis, _le zele sans prudence agit témérairement._ Voila le nom & le verbe
-    chacun avec une **modification** ou circonstance.
+  - Buffier, _Grammaire_, 49: … si je dis, _le zele sans prudence agit
+    témérairement._ Voila le nom & le verbe chacun avec une **modification** ou
+    circonstance.
   - Percival, 'Reflections', 37.
   - OED3: modification (Chambers 1728)
 
