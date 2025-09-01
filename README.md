@@ -41,6 +41,10 @@ for public domain sources.
 - declension (Varro a43 BC)
   - Schad (2007) s.v. declinatio, declino
 
+- dependentia (Ludolphus de Luco c1300)
+  - W. K. Percival, 'Reflections on the history of dependency notions in
+    linguistics', _Historiographia Lingustica_, 17/1–2 (1990), 35.
+
 - futurum exactum (Pomponius 1484)
   - Pomponio, _Grammaticae compendium_ (Venice, 1484): Tempora sunt tria.… et
     ipsum præteritum distinguitur: … **futurum** datur **exactum** amauero.
