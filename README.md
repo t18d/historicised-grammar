@@ -63,6 +63,22 @@ names of medieval writers.
 - genitivus causae (Baxter 1725)
   - _Q. Horatii Flacci Eclogae_ … restituit Willielmus Baxter (England, 1725).
 
+- modificatif (Buffier 1709)
+  - C. Buffier, _Grammaire françoise sur un plan nouveau_ (Paris, 1709), 49: Cette
+    derniere sorte de mots, qui ne servent qu'à modifier le nom & le verbe, n'a
+    point de nom général dans les grammaires ordinaires. On nous permettra de les
+    apeler ici _**modificatifs**_ …
+  - W. K. Percival, 'Reflections on the history of dependency notions in
+    linguistics', _Historiographia Lingustica_, 17/1–2 (1990), 37.
+  - OED3: modifier (Tylor 1865)
+ 
+- modification (Buffier 1709)
+  - Buffier, _Grammaire_, 49: si je
+    dis, _le zele sans prudence agit témérairement._ Voila le nom & le verbe
+    chacun avec une **modification** ou circonstance.
+  - Percival, 'Reflections', 37.
+  - OED3: modification (Chambers 1728)
+
 - regere (Servius 779–96)
   - 'De idiomatibvs (Paris. lat. 7530)', in _Grammatici latini_, iv (Leipzig,
     1864), 572: De verbis qvae **regvnt** varios casvs.
