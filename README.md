@@ -2,7 +2,8 @@
 
 \* See
 [Wiki](https://github.com/t18d/historicised-grammar/wiki)
-for public domain sources.
+for public domain sources; _Personennamen des Mittelalters_ (2nd edn) for the 
+names of medieval writers.
 
 ## Phonology
 
