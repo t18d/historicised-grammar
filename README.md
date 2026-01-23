@@ -13,6 +13,14 @@ names of medieval writers.
 
 ## Morphology
 
+- accusativus (Varro a43 BC)
+  - Trendelenburg, 'Accusativi Nomen Quid Tandem Sibi Velit', _Acta Societatis
+    Graecae Lipsiensis_, 1 (1836), 117–24.
+  - D. J. Taylor, 'Why the accusative is called "accusative"', in _Language,
+    Grammar, and Erudition: From Antiquity to Modern Times_ (Leuven, 2018), 388:
+    none of the ancient names for the cases is predicated on any syntactic notion
+    whatsoever.
+
 - coniugatio periphrastica (Melanchthon 1621)
   - L. Albertus, _Teutsch Grammatick oder Sprachkunst_ (Augsburg, 1573): In
     plurali vtimur **periphrasi verbi**, wir sollen _nos debemus_.
@@ -26,18 +34,19 @@ names of medieval writers.
   - R. Hoffmann, '"Periphrase" ("periphrastich"): zu Herkunft und Geschichte eines
     sprachwissenschaftlichen Begriffs', _Glotta_, 71/3–4 (1993), 233–4.
 
+- declension (Varro a43 BC)
+  - Schad (2007) s.v. declinatio, declino
+
+- postessive (Dixon–Kroeber 1903)
+  - R. B. Dixon and A. L. Kroeber, 'The Native Languages of California',
+    _American Anthropologist_, 5/1 (1903), 26.
+  - _The Century Dictionary and Cyclopedia_, xii (New York, 1909), s.v.
+  - M. Haspelmath, _A Grammar of Lezgian_ (Berlin, 1993), 10.
+
 ## Syntax
 
 - ablativus absolutus (Alberic 1080s)
   - Scaglione (1970)
-
-- accusativus (Varro a43 BC)
-  - Trendelenburg, 'Accusativi Nomen Quid Tandem Sibi Velit', _Acta Societatis
-    Graecae Lipsiensis_, 1 (1836), 117–24.
-  - D. J. Taylor, 'Why the accusative is called "accusative"', in _Language,
-    Grammar, and Erudition: From Antiquity to Modern Times_ (Leuven, 2018), 388:
-    none of the ancient names for the cases is predicated on any syntactic notion
-    whatsoever.
 
 - complément (Girard 1747)
   - G. Girard, _Les Vrais Principes de la langue françoise: ou La Parole reduite
@@ -47,9 +56,6 @@ names of medieval writers.
     demain en demain._
   - W. K. Percival, 'Reflections on the history of dependency notions in
     linguistics', _Historiographia Lingustica_, 17/1–2 (1990), 37.
-
-- declension (Varro a43 BC)
-  - Schad (2007) s.v. declinatio, declino
 
 - dependentia (Ludolphus de Luco c1300)
   - W. K. Percival, 'Reflections on the history of dependency notions in
@@ -79,14 +85,14 @@ names of medieval writers.
     apeler ici _**modificatifs**_ …
   - W. K. Percival, 'Reflections on the history of dependency notions in
     linguistics', _Historiographia Lingustica_, 17/1–2 (1990), 37.
-  - OED3: modifier (Tylor 1865)
+  - OED3 s.v. modifier (Tylor 1865)
  
 - modification (Buffier 1709)
   - Buffier, _Grammaire_, 49: … si je dis, _le zele sans prudence agit
     témérairement._ Voila le nom & le verbe chacun avec une **modification** ou
     circonstance.
   - Percival, 'Reflections', 37.
-  - OED3: modification (Chambers 1728)
+  - OED3 s.v. (Chambers 1728)
 
 - regere (Servius 779–96)
   - 'De idiomatibvs (Paris. lat. 7530)', in _Grammatici latini_, iv (Leipzig,
